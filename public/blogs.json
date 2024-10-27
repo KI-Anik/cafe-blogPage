@@ -1,42 +1,44 @@
 [
     {
         "id": 1,
-        "cover-img": "https://example.com/cover1.jpg",
+        "cover_img": "https://i.ibb.co.com/dLkWSCp/1.jpg",
         "author": "Alice Johnson",
-        "profile-img": "https://example.com/profile1.jpg",
+        "author_img": " https://i.ibb.co.com/KzQ4Hqq/boy1.png",
         "title": "Exploring the Mountains",
-        "reading-time": 120,
-        "posted-date": "2024-10-01",
-        "hashtag": ["#Mountains", "#Adventure"]
+        "reading_time": 120,
+        "posted_date": "2024-10-01",
+        "hashtags": ["#Mountains", "#Adventure"]
     },
+
+
     {
         "id": 2,
-        "cover-img": "https://example.com/cover2.jpg",
+        "cover_img": "https://i.ibb.co.com/9TmMLfb/2.png",
         "author": "Bob Smith",
-        "profile-img": "https://example.com/profile2.jpg",
+        "author_img": "https://i.ibb.co.com/yg3fWQ2/boy2.jpg",
         "title": "A Day at the Beach",
-        "reading-time": 90,
-        "posted-date": "2024-09-15",
-        "hashtag": ["#Beach", "#Relaxation"]
+        "reading_time": 90,
+        "posted_date": "2024-09-15",
+        "hashtags": ["#Beach", "#Relaxation"]
     },
     {
         "id": 3,
-        "cover-img": "https://example.com/cover3.jpg",
+        "cover_img": " https://i.ibb.co.com/vzj0pxH/3.png",
         "author": "Catherine Lee",
-        "profile-img": "https://example.com/profile3.jpg",
+        "author_img": "https://i.ibb.co.com/D5h4Kv7/girl1.jpg",
         "title": "Cooking with Herbs",
-        "reading-time": 75,
-        "posted-date": "2024-09-20",
-        "hashtag": ["#Cooking", "#Herbs"]
+        "reading_time": 75,
+        "posted_date": "2024-09-20",
+        "hashtags": ["#Cooking", "#Herbs"]
     },
     {
         "id": 4,
-        "cover-img": "https://example.com/cover4.jpg",
+        "cover_img": "https://i.ibb.co.com/QcmDg66/4.jpg",
         "author": "David Brown",
-        "profile-img": "https://example.com/profile4.jpg",
+        "author_img": "https://i.ibb.co.com/RQRfHs0/girl2.jpg",
         "title": "Tech Innovations in 2024",
-        "reading-time": 110,
-        "posted-date": "2024-10-10",
-        "hashtag": ["#Tech", "#Innovation"]
+        "reading_time": 110,
+        "posted_date": "2024-10-10",
+        "hashtags": ["#Tech", "#Innovation"]
     }
 ]
