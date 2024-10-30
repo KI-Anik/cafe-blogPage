@@ -6,10 +6,16 @@ import { useState } from 'react'
 
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
+  const [readingTime, setReadingTime] = useState(0)
 
   const handleAddToBookmarks = add => {
     const newBookmarks = [...bookmarks, add];
     setBookmarks(newBookmarks);
+  }
+
+  const handleMarkAsRead = time => {
+    const updateReadingTime = readingTime + time;
+    setReadingTime(updateReadingTime)
   }
 
   return (
@@ -17,9 +23,11 @@ function App() {
       <div className='max-w-7xl mx-auto'>
         <Header></Header>
         <div className='md:flex'>
-          <Blogs handleAddToBookmarks={handleAddToBookmarks}></Blogs>
-          <Bookmarks 
-          bInfos={bookmarks}>
+          <Blogs handleAddToBookmarks={handleAddToBookmarks}
+            handleMarkAsRead={handleMarkAsRead}></Blogs>
+          <Bookmarks
+            bInfos={bookmarks}
+            readingTime={readingTime}>
           </Bookmarks>
         </div>
       </div>

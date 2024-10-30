@@ -1,44 +1,43 @@
 [
-    {
-        "id": 1,
-        "cover_img": "https://i.ibb.co.com/dLkWSCp/1.jpg",
-        "author": "Alice Johnson",
-        "author_img": " https://i.ibb.co.com/KzQ4Hqq/boy1.png",
-        "title": "Exploring the Mountains",
-        "reading_time": 120,
-        "posted_date": "2024-10-01",
-        "hashtags": ["#Mountains", "#Adventure"]
-    },
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co.com/dLkWSCp/1.jpg",
+    "author": "Alice Johnson",
+    "author_img": " https://i.ibb.co.com/KzQ4Hqq/boy1.png",
+    "title": "Exploring the Mountains",
+    "reading_time": 12,
+    "posted_date": "2024-10-01",
+    "hashtags": ["#Mountains", "#Adventure"]
+  },
 
-
-    {
-        "id": 2,
-        "cover_img": "https://i.ibb.co.com/9TmMLfb/2.png",
-        "author": "Bob Smith",
-        "author_img": "https://i.ibb.co.com/yg3fWQ2/boy2.jpg",
-        "title": "A Day at the Beach",
-        "reading_time": 90,
-        "posted_date": "2024-09-15",
-        "hashtags": ["#Beach", "#Relaxation"]
-    },
-    {
-        "id": 3,
-        "cover_img": " https://i.ibb.co.com/vzj0pxH/3.png",
-        "author": "Catherine Lee",
-        "author_img": "https://i.ibb.co.com/D5h4Kv7/girl1.jpg",
-        "title": "Cooking with Herbs",
-        "reading_time": 75,
-        "posted_date": "2024-09-20",
-        "hashtags": ["#Cooking", "#Herbs"]
-    },
-    {
-        "id": 4,
-        "cover_img": "https://i.ibb.co.com/QcmDg66/4.jpg",
-        "author": "David Brown",
-        "author_img": "https://i.ibb.co.com/RQRfHs0/girl2.jpg",
-        "title": "Tech Innovations in 2024",
-        "reading_time": 110,
-        "posted_date": "2024-10-10",
-        "hashtags": ["#Tech", "#Innovation"]
-    }
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co.com/9TmMLfb/2.png",
+    "author": "Bob Smith",
+    "author_img": "https://i.ibb.co.com/yg3fWQ2/boy2.jpg",
+    "title": "A Day at the Beach",
+    "reading_time": 9,
+    "posted_date": "2024-09-15",
+    "hashtags": ["#Beach", "#Relaxation"]
+  },
+  {
+    "id": 3,
+    "cover_img": " https://i.ibb.co.com/vzj0pxH/3.png",
+    "author": "Catherine Lee",
+    "author_img": "https://i.ibb.co.com/D5h4Kv7/girl1.jpg",
+    "title": "Cooking with Herbs",
+    "reading_time": 7,
+    "posted_date": "2024-09-20",
+    "hashtags": ["#Cooking", "#Herbs"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co.com/QcmDg66/4.jpg",
+    "author": "David Brown",
+    "author_img": "https://i.ibb.co.com/RQRfHs0/girl2.jpg",
+    "title": "Tech Innovations in 2024",
+    "reading_time": 10,
+    "posted_date": "2024-10-10",
+    "hashtags": ["#Tech", "#Innovation"]
+  }
 ]
